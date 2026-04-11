@@ -8,12 +8,19 @@ Continual Learning (CL) enables models to learn from sequential data streams wit
 
 ### 2026
 
+- ProtoFlow: Mitigating Forgetting in Class-Incremental Remote Sensing Segmentation via Low-Curvature Prototype Flow \[[arXiv](https://arxiv.org/abs/2604.03212)\] ![Class-IL](https://img.shields.io/badge/Class--IL-blue)
+
 ### 2025
 
 - Class-Domain Incremental Segmentation for Remote Sensing Images \[[IEEE TGRS](https://ieeexplore.ieee.org/abstract/document/11314607)\] ![Class-Domain-IL](https://img.shields.io/badge/Class--Domain--IL-red)
 - Mitigating representation bias for class-incremental semantic segmentation of remote sensing images \[[SCIS](https://link.springer.com/article/10.1007/s11432-024-4307-1)\] ![Class-IL](https://img.shields.io/badge/Class--IL-blue)
+- Learn From Past to Future: Exploiting Self-Training and Curriculum Learning in Remote Sensing Class-Incremental Semantic Segmentation \[[IEEE TGRS](https://ieeexplore.ieee.org/abstract/document/11300302)\] ![Class-IL](https://img.shields.io/badge/Class--IL-blue)
+- Confidence–Importance Balanced Replay and Restricted Knowledge Distillation for Incremental Learning in Remote Sensing Semantic Segmentation \[[IEEE JSTARS](https://ieeexplore.ieee.org/abstract/document/11269322)\] ![Class-IL](https://img.shields.io/badge/Class--IL-blue)
+
 
 ### 2024
+
+- MiSSNet: Memory-Inspired Semantic Segmentation Augmentation Network for Class-Incremental Learning in Remote Sensing Images \[[IEEE TGRS](https://ieeexplore.ieee.org/abstract/document/10418153)\] ![Class-IL](https://img.shields.io/badge/Class--IL-blue)
 
 ### 2023
 
