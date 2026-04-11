@@ -24,8 +24,8 @@ Continual Learning (CL) enables models to learn from sequential data streams wit
 
 ## Datasets & Benchmarks
 
-- Continual Vision-Language Learning for Remote Sensing: Benchmarking and Analysis \[arXiv 2026\](https://arxiv.org/abs/2604.00820)
+- Continual Vision-Language Learning for Remote Sensing: Benchmarking and Analysis \[[arXiv 2026](https://arxiv.org/abs/2604.00820)\]
 
 ## Surverys
 
-- Incremental Deep Learning for Remote Sensing Image Interpretation \[JEIT 2024\](https://jeit.ac.cn/article/doi/10.11999/JEIT240172?pageType=en)
+- Incremental Deep Learning for Remote Sensing Image Interpretation \[[JEIT 2024](https://jeit.ac.cn/article/doi/10.11999/JEIT240172?pageType=en)\]
