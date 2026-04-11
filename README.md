@@ -42,7 +42,7 @@ Continual Learning (CL) enables models to learn from sequential data streams wit
 - Continual Learning for Remote Sensing Image Scene Classification With Prompt Learning \[[IEEE GRSL](https://ieeexplore.ieee.org/abstract/document/10304174)\] ![Class-IL](https://img.shields.io/badge/Class--IL-blue)
 - Domain-Incremental Learning for Fire Detection in Space-Air-Ground Integrated Observation Network \[[JAG](https://www.sciencedirect.com/science/article/pii/S1569843223001012)\]  ![Domain-IL](https://img.shields.io/badge/Domain--IL-green)
 - Rapid Identification of Damaged Buildings Using Incremental Learning with Transferred Data from Historical Natural Disaster Cases \[[ISPRS](https://www.sciencedirect.com/science/article/pii/S0924271622003033)\] ![Domain-IL](https://img.shields.io/badge/Domain--IL-green)
-- \[[]()\]
+- An Online Continual Object Detector on VHR Remote Sensing Images with Class Imbalance \[[EAAI](https://www.sciencedirect.com/science/article/pii/S0952197622005395)\] ![Class-IL](https://img.shields.io/badge/Class--IL-blue)
 - \[[]()\]
 
 ### 2022
@@ -51,6 +51,7 @@ Continual Learning (CL) enables models to learn from sequential data streams wit
 - Class-Incremental Semantic Segmentation of Aerial Images via Pixel-Level Feature Generation and Task-Wise Distillation \[[IEEE TGRS](https://ieeexplore.ieee.org/abstract/document/9996424)\] ![Class-IL](https://img.shields.io/badge/Class--IL-blue)
 - Historical Information-Guided Class-Incremental Semantic Segmentation in Remote Sensing Images \[[IEEE TGRS](https://ieeexplore.ieee.org/abstract/document/9762919)\] ![Class-IL](https://img.shields.io/badge/Class--IL-blue)
 - SIL-LAND: Segmentation Incremental Learning in Aerial Imagery via LAbel Number Distribution Consistency \[[IEEE TGRS](https://ieeexplore.ieee.org/document/9858901)\] ![Class-IL](https://img.shields.io/badge/Class--IL-blue)
+- Better Memorization, Better Recall: A Lifelong Learning Framework for Remote Sensing Image Scene Classification \[[IEEE TGRS](https://ieeexplore.ieee.org/abstract/document/9826803)\] ![Class-IL](https://img.shields.io/badge/Class--IL-blue)
 
 ### Up to 2021
 
@@ -60,10 +61,16 @@ Continual Learning (CL) enables models to learn from sequential data streams wit
 - Incremental Learning for Semantic Segmentation of Large-Scale Remote Sensing Data \[[IEEE JSTARS](https://ieeexplore.ieee.org/abstract/document/8844712)\] ![Class-IL](https://img.shields.io/badge/Class--IL-blue)
 - LIL: Lightweight Incremental Learning Approach Through Feature Transfer for Remote Sensing Image Scene Classification \[[IEEE TGRS](https://ieeexplore.ieee.org/abstract/document/9513278)\] ![Task-IL](https://img.shields.io/badge/Task--IL-yellow)
 - GeoBoost: An Incremental Deep Learning Approach toward Global Mapping of Buildings from VHR Remote Sensing Images \[[RS](https://www.mdpi.com/2072-4292/12/11/1794)\] ![Domain-IL](https://img.shields.io/badge/Domain--IL-green)
+- Incremental Detection of Remote Sensing Objects With Feature Pyramid and Knowledge Distillation \[[IEEE TGRS](https://ieeexplore.ieee.org/abstract/document/9301236)\] ![Class-IL](https://img.shields.io/badge/Class--IL-blue)
+- Class Boundary Exemplar Selection Based Incremental Learning for Automatic Target Recognition \[[IEEE TGRS](https://ieeexplore.ieee.org/abstract/document/8986833)\]  ![Class-IL](https://img.shields.io/badge/Class--IL-blue)
+- CILEA-NET: Curriculum-Based Incremental Learning Framework for Remote Sensing Image Classification \[[IEEE JSTARS](https://ieeexplore.ieee.org/abstract/document/9442875)\] ![Class-IL](https://img.shields.io/badge/Class--IL-blue)
+- Continual Learning Using Data Regeneration for Remote Sensing Scene Classification \[[IEEE GRSL](https://ieeexplore.ieee.org/abstract/document/9444286)\] ![Class-IL](https://img.shields.io/badge/Class--IL-blue)
+- Continual Learning Approach for Remote Sensing Scene Classification \[[IEEE GRSL](https://ieeexplore.ieee.org/document/9184999)\] ![Class-IL](https://img.shields.io/badge/Class--IL-blue)
 
 ## Datasets & Benchmarks
 
 - Continual Vision-Language Learning for Remote Sensing: Benchmarking and Analysis \[[arXiv 2026](https://arxiv.org/abs/2604.00820)\]
+- CLRS: Continual Learning Benchmark for Remote Sensing Image Scene Classification \[[Sensors 2020](https://www.mdpi.com/1424-8220/20/4/1226)\]
 
 ## Surverys
 
