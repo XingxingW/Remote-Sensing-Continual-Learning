@@ -43,15 +43,11 @@ Continual Learning (CL) enables models to learn from sequential data streams wit
 - Historical Information-Guided Class-Incremental Semantic Segmentation in Remote Sensing Images \[[IEEE TGRS](https://ieeexplore.ieee.org/abstract/document/9762919)\] ![Class-IL](https://img.shields.io/badge/Class--IL-blue)
 - SIL-LAND: Segmentation Incremental Learning in Aerial Imagery via LAbel Number Distribution Consistency \[[IEEE TGRS](https://ieeexplore.ieee.org/document/9858901)\] ![Class-IL](https://img.shields.io/badge/Class--IL-blue)
 
-### 2021
+### Up to 2021
 
 - Class-Incremental Learning for Semantic Segmentation in Aerial Imagery via Distillation in All Aspects \[[IEEE TGRS](https://ieeexplore.ieee.org/document/9648310)\] ![Class-IL](https://img.shields.io/badge/Class--IL-blue)
 - Continual Learning With Structured Inheritance for Semantic Segmentation in Aerial Imagery \[[IEEE TGRS](https://ieeexplore.ieee.org/document/9426950)\] ![Task-IL](https://img.shields.io/badge/Task--IL-yellow)
 - Class-Incremental Learning Network for Small Objects Enhancing of Semantic Segmentation in Aerial Imagery \[[IEEE TGRS](https://ieeexplore.ieee.org/abstract/document/9594782)\] ![Class-IL](https://img.shields.io/badge/Class--IL-blue)
-
-
-### Up to 2020
-
 - Incremental Learning for Semantic Segmentation of Large-Scale Remote Sensing Data \[[IEEE JSTARS](https://ieeexplore.ieee.org/abstract/document/8844712)\] ![Class-IL](https://img.shields.io/badge/Class--IL-blue)
 
 ## Datasets & Benchmarks
