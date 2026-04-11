@@ -29,12 +29,21 @@ Continual Learning (CL) enables models to learn from sequential data streams wit
 - MDINet: Multidomain Incremental Network for Change Detection \[[IEEE TGRS](https://ieeexplore.ieee.org/document/10379022)\] ![Domain-IL](https://img.shields.io/badge/Domain--IL-green)
 - Enhancing Class-Incremental Object Detection in Remote Sensing Through Instance-Aware Distillation \[[Neurocomputing](https://www.sciencedirect.com/science/article/pii/S0925231224003230)\] ![Class-IL](https://img.shields.io/badge/Class--IL-blue)
 - Continual Panoptic Perception: Towards Multi-modal Incremental Interpretation of Remote Sensing Images \[[ACM MM](https://dl.acm.org/doi/abs/10.1145/3664647.3680654)\] ![Class-IL](https://img.shields.io/badge/Class--IL-blue)
+- A Class-Incremental Object Detection Method for Remote Sensing Images Based on Dynamic Multiprototype Matching \[[IEEE JSTARS](https://ieeexplore.ieee.org/abstract/document/10811766)\] ![Class-IL](https://img.shields.io/badge/Class--IL-blue)
+- A Multiscale Incremental Learning Network for Remote Sensing Scene Classification \[[IEEE TGRS](https://ieeexplore.ieee.org/abstract/document/10398254)\] ![Class-IL](https://img.shields.io/badge/Class--IL-blue)
+- Continual Learning for SAR Target Incremental Detection via Predicted Location Probability Representation and Proposal Selection \[[IEEE TGRS](https://ieeexplore.ieee.org/abstract/document/10520823)\] ![Class-IL](https://img.shields.io/badge/Class--IL-blue)
+- Class-Incremental Recognition of Objects in Remote Sensing Images With Dynamic Hybrid Exemplar Selection \[[IEEE TAES](https://ieeexplore.ieee.org/abstract/document/10423237)\] ![Class-IL](https://img.shields.io/badge/Class--IL-blue)
 
 
 ### 2023
 
 - MiCro: Modeling Cross-Image Semantic Relationship Dependencies for Class-Incremental Semantic Segmentation in Remote Sensing Images \[[IEEE TGRS](https://ieeexplore.ieee.org/abstract/document/10188852)\] ![Class-IL](https://img.shields.io/badge/Class--IL-blue)
 - DILRS: Domain-Incremental Learning for Semantic Segmentation in Multi-Source Remote Sensing Data \[[RS](https://www.mdpi.com/2072-4292/15/10/2541)\] ![Task-IL](https://img.shields.io/badge/Task--IL-yellow)
+- Continual Learning for Remote Sensing Image Scene Classification With Prompt Learning \[[IEEE GRSL](https://ieeexplore.ieee.org/abstract/document/10304174)\] ![Class-IL](https://img.shields.io/badge/Class--IL-blue)
+- Domain-Incremental Learning for Fire Detection in Space-Air-Ground Integrated Observation Network \[[JAG](https://www.sciencedirect.com/science/article/pii/S1569843223001012)\]  ![Domain-IL](https://img.shields.io/badge/Domain--IL-green)
+- Rapid Identification of Damaged Buildings Using Incremental Learning with Transferred Data from Historical Natural Disaster Cases \[[ISPRS](https://www.sciencedirect.com/science/article/pii/S0924271622003033)\] ![Domain-IL](https://img.shields.io/badge/Domain--IL-green)
+- \[[]()\]
+- \[[]()\]
 
 ### 2022
 
@@ -49,6 +58,8 @@ Continual Learning (CL) enables models to learn from sequential data streams wit
 - Continual Learning With Structured Inheritance for Semantic Segmentation in Aerial Imagery \[[IEEE TGRS](https://ieeexplore.ieee.org/document/9426950)\] ![Task-IL](https://img.shields.io/badge/Task--IL-yellow)
 - Class-Incremental Learning Network for Small Objects Enhancing of Semantic Segmentation in Aerial Imagery \[[IEEE TGRS](https://ieeexplore.ieee.org/abstract/document/9594782)\] ![Class-IL](https://img.shields.io/badge/Class--IL-blue)
 - Incremental Learning for Semantic Segmentation of Large-Scale Remote Sensing Data \[[IEEE JSTARS](https://ieeexplore.ieee.org/abstract/document/8844712)\] ![Class-IL](https://img.shields.io/badge/Class--IL-blue)
+- LIL: Lightweight Incremental Learning Approach Through Feature Transfer for Remote Sensing Image Scene Classification \[[IEEE TGRS](https://ieeexplore.ieee.org/abstract/document/9513278)\] ![Task-IL](https://img.shields.io/badge/Task--IL-yellow)
+- GeoBoost: An Incremental Deep Learning Approach toward Global Mapping of Buildings from VHR Remote Sensing Images \[[RS](https://www.mdpi.com/2072-4292/12/11/1794)\] ![Domain-IL](https://img.shields.io/badge/Domain--IL-green)
 
 ## Datasets & Benchmarks
 
