@@ -10,7 +10,7 @@ Continual Learning (CL) enables models to learn from sequential data streams wit
 
 ### 2025
 
-- Mitigating representation bias for class-incremental semantic segmentation of remote sensing images \[SCIS\](https://link.springer.com/article/10.1007/s11432-024-4307-1) ![Class-IL](https://img.shields.io/badge/Class--IL-blue)
+- Mitigating representation bias for class-incremental semantic segmentation of remote sensing images \[[SCIS](https://link.springer.com/article/10.1007/s11432-024-4307-1)\]![Class-IL](https://img.shields.io/badge/Class--IL-blue)
 
 ### 2024
 
