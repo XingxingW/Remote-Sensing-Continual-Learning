@@ -10,6 +10,7 @@ Continual Learning (CL) enables models to learn from sequential data streams wit
 
 - ProtoFlow: Mitigating Forgetting in Class-Incremental Remote Sensing Segmentation via Low-Curvature Prototype Flow \[[arXiv](https://arxiv.org/abs/2604.03212)\] ![Class-IL](https://img.shields.io/badge/Class--IL-blue)
 - Multi-Domain Incremental Learning for Semantic Segmentation via Visual Domain Prompt in Remote Sensing Data \[[RS](https://www.mdpi.com/2072-4292/18/3/464)\] ![Domain-IL](https://img.shields.io/badge/Domain--IL-green)
+- Class-Incremental Learning for Remote Sensing Scene Classification via Stable Diffusion-Based Data Regeneration \[[IEEE TGRS](https://ieeexplore.ieee.org/abstract/document/11373269)\] ![Class-IL](https://img.shields.io/badge/Class--IL-blue)
 
 ### 2025
 
@@ -20,6 +21,7 @@ Continual Learning (CL) enables models to learn from sequential data streams wit
 - Incremental Land Cover Classification via Soft Label and Subregion Distillation \[[IEEE TGRS](https://ieeexplore.ieee.org/abstract/document/11184605)\] ![Class-IL](https://img.shields.io/badge/Class--IL-blue)
 - Class Bias Correction Matters: A Class-Incremental Learning Framework for Remote Sensing Scene Classification \[[IEEE TGRS](https://ieeexplore.ieee.org/document/10935643)\] ![Class-IL](https://img.shields.io/badge/Class--IL-blue)
 - TriMem: Trifold Memory Framework for Continual Learning of VLMs in Remote Sensing \[[IEEE TGRS](https://ieeexplore.ieee.org/abstract/document/11204655)\] ![Task-IL](https://img.shields.io/badge/Task--IL-yellow)
+- Adaptive Mixture-of-Experts Distillation for Cross-Satellite Generalizable Incremental Remote Sensing Scene Classification \[[IEEE TCSVT](https://ieeexplore.ieee.org/abstract/document/11124203)\] ![Class-IL](https://img.shields.io/badge/Class--IL-blue)
  
 
 ### 2024
@@ -43,7 +45,6 @@ Continual Learning (CL) enables models to learn from sequential data streams wit
 - Domain-Incremental Learning for Fire Detection in Space-Air-Ground Integrated Observation Network \[[JAG](https://www.sciencedirect.com/science/article/pii/S1569843223001012)\]  ![Domain-IL](https://img.shields.io/badge/Domain--IL-green)
 - Rapid Identification of Damaged Buildings Using Incremental Learning with Transferred Data from Historical Natural Disaster Cases \[[ISPRS](https://www.sciencedirect.com/science/article/pii/S0924271622003033)\] ![Domain-IL](https://img.shields.io/badge/Domain--IL-green)
 - An Online Continual Object Detector on VHR Remote Sensing Images with Class Imbalance \[[EAAI](https://www.sciencedirect.com/science/article/pii/S0952197622005395)\] ![Class-IL](https://img.shields.io/badge/Class--IL-blue)
-- \[[]()\]
 
 ### 2022
 
@@ -52,6 +53,10 @@ Continual Learning (CL) enables models to learn from sequential data streams wit
 - Historical Information-Guided Class-Incremental Semantic Segmentation in Remote Sensing Images \[[IEEE TGRS](https://ieeexplore.ieee.org/abstract/document/9762919)\] ![Class-IL](https://img.shields.io/badge/Class--IL-blue)
 - SIL-LAND: Segmentation Incremental Learning in Aerial Imagery via LAbel Number Distribution Consistency \[[IEEE TGRS](https://ieeexplore.ieee.org/document/9858901)\] ![Class-IL](https://img.shields.io/badge/Class--IL-blue)
 - Better Memorization, Better Recall: A Lifelong Learning Framework for Remote Sensing Image Scene Classification \[[IEEE TGRS](https://ieeexplore.ieee.org/abstract/document/9826803)\] ![Class-IL](https://img.shields.io/badge/Class--IL-blue)
+- Incremental Learning Based on Anchored Class Centers for SAR Automatic Target Recognition \[[IEEE TGRS](https://ieeexplore.ieee.org/document/9896911)\] ![Class-IL](https://img.shields.io/badge/Class--IL-blue)
+- Incremental Learning With Open-Set Recognition for Remote Sensing Image Scene Classification \[[IEEE TGRS](https://ieeexplore.ieee.org/document/9771396)\] ![Class-IL](https://img.shields.io/badge/Class--IL-blue)
+- Incremental SAR Automatic Target Recognition With Error Correction and High Plasticity \[[IEEE JSTARS](https://ieeexplore.ieee.org/document/9676475)\] ![Class-IL](https://img.shields.io/badge/Class--IL-blue)
+- Life-Long Learning With Continual Spectral-Spatial Feature Distillation for Hyperspectral Image Classification \[[IEEE TGRS](https://ieeexplore.ieee.org/document/9953987)\] ![Task-IL](https://img.shields.io/badge/Task--IL-yellow)
 
 ### Up to 2021
 
@@ -66,6 +71,7 @@ Continual Learning (CL) enables models to learn from sequential data streams wit
 - CILEA-NET: Curriculum-Based Incremental Learning Framework for Remote Sensing Image Classification \[[IEEE JSTARS](https://ieeexplore.ieee.org/abstract/document/9442875)\] ![Class-IL](https://img.shields.io/badge/Class--IL-blue)
 - Continual Learning Using Data Regeneration for Remote Sensing Scene Classification \[[IEEE GRSL](https://ieeexplore.ieee.org/abstract/document/9444286)\] ![Class-IL](https://img.shields.io/badge/Class--IL-blue)
 - Continual Learning Approach for Remote Sensing Scene Classification \[[IEEE GRSL](https://ieeexplore.ieee.org/document/9184999)\] ![Class-IL](https://img.shields.io/badge/Class--IL-blue)
+- Class Incremental Learning With Few-Shots Based on Linear Programming for Hyperspectral Image Classification \[[IEEE TCYB](https://ieeexplore.ieee.org/abstract/document/9269514)\] ![Class-IL](https://img.shields.io/badge/Class--IL-blue)
 
 ## Datasets & Benchmarks
 
