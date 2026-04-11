@@ -22,6 +22,7 @@ Continual Learning (CL) enables models to learn from sequential data streams wit
 - Class Bias Correction Matters: A Class-Incremental Learning Framework for Remote Sensing Scene Classification \[[IEEE TGRS](https://ieeexplore.ieee.org/document/10935643)\] ![Class-IL](https://img.shields.io/badge/Class--IL-blue)
 - TriMem: Trifold Memory Framework for Continual Learning of VLMs in Remote Sensing \[[IEEE TGRS](https://ieeexplore.ieee.org/abstract/document/11204655)\] ![Task-IL](https://img.shields.io/badge/Task--IL-yellow)
 - Adaptive Mixture-of-Experts Distillation for Cross-Satellite Generalizable Incremental Remote Sensing Scene Classification \[[IEEE TCSVT](https://ieeexplore.ieee.org/abstract/document/11124203)\] ![Class-IL](https://img.shields.io/badge/Class--IL-blue)
+- Continually Evolved Feature and Classifiers Learning for Long-Tailed Class-Incremental Remote Sensing Scene Classification \[[IEEE TGRS](https://ieeexplore.ieee.org/abstract/document/11114081)\] ![Class-IL](https://img.shields.io/badge/Class--IL-blue)
  
 
 ### 2024
