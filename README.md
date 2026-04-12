@@ -14,7 +14,6 @@ Continual Learning (CL) enables models to learn from sequential data streams wit
 - Prototype-Based Meta-Prompt Tuning: Toward Rehearsal-Free Few-Shot Class-Incremental Learning for Multimodal Remote Sensing Image \[[IEEE TIP](https://ieeexplore.ieee.org/abstract/document/11345527)\] ![Few-Shot-CIL](https://img.shields.io/badge/Few--Shot--CIL-orange)
 - HDCPAA: A Few-Shot Class-Incremental Learning Model for Remote Sensing Image Recognition \[[Neurocomputing](https://www.sciencedirect.com/science/article/pii/S0925231225007155)\] ![Few-Shot-CIL](https://img.shields.io/badge/Few--Shot--CIL-orange)
 - DF-PEM: Dual-Flow Prompt-Expert Mamba for Multimodal Remote Sensing Incremental Classification \[[IEEE TGRS](https://ieeexplore.ieee.org/abstract/document/11435199)\] ![Class-IL](https://img.shields.io/badge/Class--IL-blue)
-- \[[]()\]
 
 ### 2025
 
@@ -87,6 +86,7 @@ Continual Learning (CL) enables models to learn from sequential data streams wit
 ## Datasets & Benchmarks
 
 - Continual Vision-Language Learning for Remote Sensing: Benchmarking and Analysis \[[arXiv 2026](https://arxiv.org/abs/2604.00820)\]
+- ATRNet-STAR: A Large Dataset and Benchmark Towards Remote Sensing Object Recognition in the Wild \[[IEEE TPAMI 2026](https://ieeexplore.ieee.org/abstract/document/11367309)\]
 - CLRS: Continual Learning Benchmark for Remote Sensing Image Scene Classification \[[Sensors 2020](https://www.mdpi.com/1424-8220/20/4/1226)\]
 
 ## Surverys
