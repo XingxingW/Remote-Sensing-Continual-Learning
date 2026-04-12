@@ -11,6 +11,8 @@ Continual Learning (CL) enables models to learn from sequential data streams wit
 - ProtoFlow: Mitigating Forgetting in Class-Incremental Remote Sensing Segmentation via Low-Curvature Prototype Flow \[[arXiv](https://arxiv.org/abs/2604.03212)\] ![Class-IL](https://img.shields.io/badge/Class--IL-blue)
 - Multi-Domain Incremental Learning for Semantic Segmentation via Visual Domain Prompt in Remote Sensing Data \[[RS](https://www.mdpi.com/2072-4292/18/3/464)\] ![Domain-IL](https://img.shields.io/badge/Domain--IL-green)
 - Class-Incremental Learning for Remote Sensing Scene Classification via Stable Diffusion-Based Data Regeneration \[[IEEE TGRS](https://ieeexplore.ieee.org/abstract/document/11373269)\] ![Class-IL](https://img.shields.io/badge/Class--IL-blue)
+- Prototype-Based Meta-Prompt Tuning: Toward Rehearsal-Free Few-Shot Class-Incremental Learning for Multimodal Remote Sensing Image \[[IEEE TIP](https://ieeexplore.ieee.org/abstract/document/11345527)\] ![Few-Shot-CIL](https://img.shields.io/badge/Few--Shot--CIL-orange)
+- HDCPAA: A Few-Shot Class-Incremental Learning Model for Remote Sensing Image Recognition \[[Neurocomputing](https://www.sciencedirect.com/science/article/pii/S0925231225007155)\] ![Few-Shot-CIL](https://img.shields.io/badge/Few--Shot--CIL-orange)
 
 ### 2025
 
@@ -23,6 +25,7 @@ Continual Learning (CL) enables models to learn from sequential data streams wit
 - TriMem: Trifold Memory Framework for Continual Learning of VLMs in Remote Sensing \[[IEEE TGRS](https://ieeexplore.ieee.org/abstract/document/11204655)\] ![Task-IL](https://img.shields.io/badge/Task--IL-yellow)
 - Adaptive Mixture-of-Experts Distillation for Cross-Satellite Generalizable Incremental Remote Sensing Scene Classification \[[IEEE TCSVT](https://ieeexplore.ieee.org/abstract/document/11124203)\] ![Class-IL](https://img.shields.io/badge/Class--IL-blue)
 - Continually Evolved Feature and Classifiers Learning for Long-Tailed Class-Incremental Remote Sensing Scene Classification \[[IEEE TGRS](https://ieeexplore.ieee.org/abstract/document/11114081)\] ![Class-IL](https://img.shields.io/badge/Class--IL-blue)
+- Contrastive Dual-Pool Feature Adaption for Domain Incremental Remote Sensing Scene Classification \[[RS](https://www.mdpi.com/2072-4292/17/2/308)\] ![Domain-IL](https://img.shields.io/badge/Domain--IL-green)
  
 
 ### 2024
