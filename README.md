@@ -14,6 +14,9 @@ Continual Learning (CL) enables models to learn from sequential data streams wit
 - Prototype-Based Meta-Prompt Tuning: Toward Rehearsal-Free Few-Shot Class-Incremental Learning for Multimodal Remote Sensing Image \[[IEEE TIP](https://ieeexplore.ieee.org/abstract/document/11345527)\] ![Few-Shot-CIL](https://img.shields.io/badge/Few--Shot--CIL-orange)
 - HDCPAA: A Few-Shot Class-Incremental Learning Model for Remote Sensing Image Recognition \[[Neurocomputing](https://www.sciencedirect.com/science/article/pii/S0925231225007155)\] ![Few-Shot-CIL](https://img.shields.io/badge/Few--Shot--CIL-orange)
 - DF-PEM: Dual-Flow Prompt-Expert Mamba for Multimodal Remote Sensing Incremental Classification \[[IEEE TGRS](https://ieeexplore.ieee.org/abstract/document/11435199)\] ![Class-IL](https://img.shields.io/badge/Class--IL-blue)
+- Evolving Without Ending: Unifying Multimodal Incremental Learning for Continual Panoptic Perception \[[arXiv](https://arxiv.org/abs/2601.15643)\] ![Class-IL](https://img.shields.io/badge/Class--IL-blue)
+- Physical Attributes Embedded Prototypical Network for Incremental SAR Automatic Target Recognition \[[IEEE JSTARS](https://ieeexplore.ieee.org/abstract/document/11328792)\] ![Class-IL](https://img.shields.io/badge/Class--IL-blue)
+- Cross-Domain Incremental Image Classification via Domain-Specific Prototypes and Contrastive Learning \[[IEEE TGRS](https://ieeexplore.ieee.org/abstract/document/11333380)\] ![Cross-Domain-IL](https://img.shields.io/badge/Cross--Domain--IL-brightgreen)
 
 ### 2025
 
