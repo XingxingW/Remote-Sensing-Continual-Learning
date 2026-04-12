@@ -13,6 +13,8 @@ Continual Learning (CL) enables models to learn from sequential data streams wit
 - Class-Incremental Learning for Remote Sensing Scene Classification via Stable Diffusion-Based Data Regeneration \[[IEEE TGRS](https://ieeexplore.ieee.org/abstract/document/11373269)\] ![Class-IL](https://img.shields.io/badge/Class--IL-blue)
 - Prototype-Based Meta-Prompt Tuning: Toward Rehearsal-Free Few-Shot Class-Incremental Learning for Multimodal Remote Sensing Image \[[IEEE TIP](https://ieeexplore.ieee.org/abstract/document/11345527)\] ![Few-Shot-CIL](https://img.shields.io/badge/Few--Shot--CIL-orange)
 - HDCPAA: A Few-Shot Class-Incremental Learning Model for Remote Sensing Image Recognition \[[Neurocomputing](https://www.sciencedirect.com/science/article/pii/S0925231225007155)\] ![Few-Shot-CIL](https://img.shields.io/badge/Few--Shot--CIL-orange)
+- DF-PEM: Dual-Flow Prompt-Expert Mamba for Multimodal Remote Sensing Incremental Classification \[[IEEE TGRS](https://ieeexplore.ieee.org/abstract/document/11435199)\] ![Class-IL](https://img.shields.io/badge/Class--IL-blue)
+- \[[]()\]
 
 ### 2025
 
@@ -26,6 +28,11 @@ Continual Learning (CL) enables models to learn from sequential data streams wit
 - Adaptive Mixture-of-Experts Distillation for Cross-Satellite Generalizable Incremental Remote Sensing Scene Classification \[[IEEE TCSVT](https://ieeexplore.ieee.org/abstract/document/11124203)\] ![Class-IL](https://img.shields.io/badge/Class--IL-blue)
 - Continually Evolved Feature and Classifiers Learning for Long-Tailed Class-Incremental Remote Sensing Scene Classification \[[IEEE TGRS](https://ieeexplore.ieee.org/abstract/document/11114081)\] ![Class-IL](https://img.shields.io/badge/Class--IL-blue)
 - Contrastive Dual-Pool Feature Adaption for Domain Incremental Remote Sensing Scene Classification \[[RS](https://www.mdpi.com/2072-4292/17/2/308)\] ![Domain-IL](https://img.shields.io/badge/Domain--IL-green)
+- Scene Adaptive SAR Incremental Target Detection via Context-Aware Attention and Gaussian-Box Similarity Metric \[[IEEE TGRS](https://ieeexplore.ieee.org/abstract/document/10892217)\] ![Class-IL](https://img.shields.io/badge/Class--IL-blue)
+- Scattering-Aware Adaptive Dynamic Node Generation for SAR Class-Incremental Learning \[[IEEE TGRS](https://ieeexplore.ieee.org/abstract/document/11184557)\] ![Class-IL](https://img.shields.io/badge/Class--IL-blue)
+- Smooth Distribution and Depth-Focused Distillation-Based Class-Incremental Learning for SAR Target Detection \[[IEEE TGRS](https://ieeexplore.ieee.org/abstract/document/10855332)\]  ![Class-IL](https://img.shields.io/badge/Class--IL-blue)
+- Layout-Anchored Prioritizing Continual Learning for Continuous Building Footprint Extraction From High-Resolution Remote Sensing Imagery \[[IEEE TGRS](https://ieeexplore.ieee.org/abstract/document/10891517)\] ![Domain-IL](https://img.shields.io/badge/Domain--IL-green)
+- Hierarchical Distribution-Based Exemplar Replay for Incremental SAR Automatic Target Recognition \[[IEEE TAES](https://ieeexplore.ieee.org/abstract/document/10848058)\] ![Class-IL](https://img.shields.io/badge/Class--IL-blue)
  
 
 ### 2024
