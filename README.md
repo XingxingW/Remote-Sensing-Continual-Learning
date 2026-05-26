@@ -8,6 +8,7 @@ Continual Learning (CL) enables models to learn from sequential data streams wit
 
 ### 2026
 
+- STAR-IOD: Scale-decoupled Topology Alignment with Pseudo-label Refinement for Remote Sensing Incremental Object Detection \[[ISPRS](https://arxiv.org/abs/2605.20738)\] ![Class-IL](https://img.shields.io/badge/Class--IL-blue)
 - Dual-Consistency Representation Learning for Class-Incremental Semantic Segmentation in Remote Sensing Images \[[IEEE TGRS](https://ieeexplore.ieee.org/abstract/document/11520879)\] ![Class-IL](https://img.shields.io/badge/Class--IL-blue)
 - ProtoFlow: Mitigating Forgetting in Class-Incremental Remote Sensing Segmentation via Low-Curvature Prototype Flow \[[arXiv](https://arxiv.org/abs/2604.03212)\] ![Class-IL](https://img.shields.io/badge/Class--IL-blue)
 - Multi-Domain Incremental Learning for Semantic Segmentation via Visual Domain Prompt in Remote Sensing Data \[[RS](https://www.mdpi.com/2072-4292/18/3/464)\] ![Domain-IL](https://img.shields.io/badge/Domain--IL-green)
