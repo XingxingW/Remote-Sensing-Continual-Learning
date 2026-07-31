@@ -8,6 +8,7 @@ Continual Learning (CL) enables models to learn from sequential data streams wit
 
 ### 2026
 
+- Class-Incremental Learning for Remote Sensing Scene Classification via Stable Diffusion-Based Data Regeneration \[[IEEE TGRS](https://ieeexplore.ieee.org/abstract/document/11373269)\] ![Class-IL](https://img.shields.io/badge/Class--IL-blue)
 - Domain-Incremental Remote Sensing Change Detection via Difference-Guided Adaptation and Frequency-Decoupled Distillation \[[arXiv](https://arxiv.org/pdf/2607.12934)\]![Domain-IL](https://img.shields.io/badge/Domain--IL-green)
 - Boosting Vision-Language Models Towards Cross-Domain Incremental Object Detection \[[CVPR](https://openaccess.thecvf.com/content/CVPR2026/html/Wang_Boosting_Vision-Language_Models_Towards_Cross-Domain_Incremental_Object_Detection_CVPR_2026_paper.html)\] ![Cross-Domain-IL](https://img.shields.io/badge/Cross--Domain--IL-brightgreen)
 - Text-Guided Iterative Polymerization With Prototyping for Task-Incremental Few-Shot Infrared Moving Target Detection \[[IEEE TGRS](https://ieeexplore.ieee.org/abstract/document/11396965)\] ![Few-Shot-TIL](https://img.shields.io/badge/Few--Shot--TIL-gold)
