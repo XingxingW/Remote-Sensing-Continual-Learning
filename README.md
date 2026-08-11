@@ -8,6 +8,7 @@ Continual Learning (CL) enables models to learn from sequential data streams wit
 
 ### 2026
 
+- Confidence–Importance Balanced Replay and Restricted Knowledge Distillation for Incremental Learning in Remote Sensing Semantic Segmentation \[[IEEE JSTARS](https://ieeexplore.ieee.org/document/11269322)\] ![Class-IL](https://img.shields.io/badge/Class--IL-blue)
 - Class-Incremental Learning for Remote Sensing Scene Classification via Stable Diffusion-Based Data Regeneration \[[IEEE TGRS](https://ieeexplore.ieee.org/abstract/document/11373269)\] ![Class-IL](https://img.shields.io/badge/Class--IL-blue)
 - Domain-Incremental Remote Sensing Change Detection via Difference-Guided Adaptation and Frequency-Decoupled Distillation \[[arXiv](https://arxiv.org/pdf/2607.12934)\]![Domain-IL](https://img.shields.io/badge/Domain--IL-green)
 - Boosting Vision-Language Models Towards Cross-Domain Incremental Object Detection \[[CVPR](https://openaccess.thecvf.com/content/CVPR2026/html/Wang_Boosting_Vision-Language_Models_Towards_Cross-Domain_Incremental_Object_Detection_CVPR_2026_paper.html)\] ![Cross-Domain-IL](https://img.shields.io/badge/Cross--Domain--IL-brightgreen)
@@ -26,6 +27,7 @@ Continual Learning (CL) enables models to learn from sequential data streams wit
 
 ### 2025
 
+- Learn From Past to Future: Exploiting Self-Training and Curriculum Learning in Remote Sensing Class-Incremental Semantic Segmentation \[[IEEE TGRS](https://ieeexplore.ieee.org/abstract/document/11300302)\] ![Class-IL](https://img.shields.io/badge/Class--IL-blue)
 - Class-Domain Incremental Segmentation for Remote Sensing Images \[[IEEE TGRS](https://ieeexplore.ieee.org/abstract/document/11314607)\] ![Class-Domain-IL](https://img.shields.io/badge/Class--Domain--IL-red)
 - Mitigating representation bias for class-incremental semantic segmentation of remote sensing images \[[SCIS](https://link.springer.com/article/10.1007/s11432-024-4307-1)\] ![Class-IL](https://img.shields.io/badge/Class--IL-blue)
 - Learn From Past to Future: Exploiting Self-Training and Curriculum Learning in Remote Sensing Class-Incremental Semantic Segmentation \[[IEEE TGRS](https://ieeexplore.ieee.org/abstract/document/11300302)\] ![Class-IL](https://img.shields.io/badge/Class--IL-blue)
