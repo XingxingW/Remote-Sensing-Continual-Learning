@@ -4,6 +4,15 @@ Continual learning for remote sensing: methods, datasets, and benchmarks.
 ## Overview
 Continual Learning (CL) enables models to learn from sequential data streams without catastrophic forgetting. In remote sensing, CL is particularly important due to dynamic Earth observation data and diverse application requirements.
 
+### Category
+
+![Class-IL](https://img.shields.io/badge/Class--IL-blue) Class Incremental Learning
+![Few-Shot-CIL](https://img.shields.io/badge/Few--Shot--CIL-orange) Few-Shot Class Incremental Learning
+![Domain-IL](https://img.shields.io/badge/Domain--IL-green) Domain Incremental Learning
+![Cross-Domain-IL](https://img.shields.io/badge/Cross--Domain--IL-brightgreen) Cross-Domain Incremental Learning
+![Task-IL](https://img.shields.io/badge/Task--IL-yellow) Task Incremental Learning
+![Few-Shot-TIL](https://img.shields.io/badge/Few--Shot--TIL-gold) Few-Shot Task Incremental Learning 
+
 ## Methods
 
 ### 2026
