@@ -8,7 +8,10 @@ Continual Learning (CL) enables models to learn from sequential data streams wit
 
 ### 2026
 
-- BiCM-Prompt: Bidirectional Cross-Modal Prompt Tuning for Class-Incremental Learning on Multisource Remote Sensing Images \[IEEE TIP\](https://ieeexplore.ieee.org/abstract/document/11585936) ![Class-IL](https://img.shields.io/badge/Class--IL-blue)
+- BiCM-Prompt: Bidirectional Cross-Modal Prompt Tuning for Class-Incremental Learning on Multisource Remote Sensing Images \[[IEEE TIP](https://ieeexplore.ieee.org/abstract/document/11585936)\] ![Class-IL](https://img.shields.io/badge/Class--IL-blue)
+- FineCL: Exemplar-Free Continual Learning for Fine-Grained Remote Sensing Panoptic Segmentation \[[IEEE TGRS](https://ieeexplore.ieee.org/abstract/document/11493426)\] ![Class-IL](https://img.shields.io/badge/Class--IL-blue)
+- Few-Shot Class-Incremental Object Detection of Remote Sensing Images via Prototype-Aware Contrastive Learning \[[[Displays](https://www.sciencedirect.com/science/article/pii/S0141938226001472)\] ![Few-Shot-CIL](https://img.shields.io/badge/Few--Shot--CIL-orange)
+- A Memory-Efficient Class-Incremental Learning Framework for Remote Sensing Scene Classification via Feature Replay \[[RS](https://www.mdpi.com/2072-4292/18/6/896)\] ![Class-IL](https://img.shields.io/badge/Class--IL-blue)
 - Confidence–Importance Balanced Replay and Restricted Knowledge Distillation for Incremental Learning in Remote Sensing Semantic Segmentation \[[IEEE JSTARS](https://ieeexplore.ieee.org/document/11269322)\] ![Class-IL](https://img.shields.io/badge/Class--IL-blue)
 - Class-Incremental Learning for Remote Sensing Scene Classification via Stable Diffusion-Based Data Regeneration \[[IEEE TGRS](https://ieeexplore.ieee.org/abstract/document/11373269)\] ![Class-IL](https://img.shields.io/badge/Class--IL-blue)
 - Domain-Incremental Remote Sensing Change Detection via Difference-Guided Adaptation and Frequency-Decoupled Distillation \[[arXiv](https://arxiv.org/pdf/2607.12934)\]![Domain-IL](https://img.shields.io/badge/Domain--IL-green)
