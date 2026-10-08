@@ -7,11 +7,19 @@ Continual Learning (CL) enables models to learn from sequential data streams wit
 ### Category
 
 ![Class-IL](https://img.shields.io/badge/Class--IL-blue) Class Incremental Learning
+
 ![Few-Shot-CIL](https://img.shields.io/badge/Few--Shot--CIL-orange) Few-Shot Class Incremental Learning
+
+![Class-Domain-IL](https://img.shields.io/badge/Class--Domain--IL-red) Class-Domain Incremental Learning
+
 ![Domain-IL](https://img.shields.io/badge/Domain--IL-green) Domain Incremental Learning
+
 ![Cross-Domain-IL](https://img.shields.io/badge/Cross--Domain--IL-brightgreen) Cross-Domain Incremental Learning
+
 ![Task-IL](https://img.shields.io/badge/Task--IL-yellow) Task Incremental Learning
+
 ![Few-Shot-TIL](https://img.shields.io/badge/Few--Shot--TIL-gold) Few-Shot Task Incremental Learning 
+
 
 ## Methods
 
