@@ -25,6 +25,7 @@ Continual Learning (CL) enables models to learn from sequential data streams wit
 
 ### 2026
 
+- Toward Zero-Forgetting: A Training-Free Multimodal Framework for Remote Sensing Class-Incremental Learning \[[IEEE TGRS](https://ieeexplore.ieee.org/abstract/document/11662113)\] ![Class-IL](https://img.shields.io/badge/Class--IL-blue)
 - BiCM-Prompt: Bidirectional Cross-Modal Prompt Tuning for Class-Incremental Learning on Multisource Remote Sensing Images \[[IEEE TIP](https://ieeexplore.ieee.org/abstract/document/11585936)\] ![Class-IL](https://img.shields.io/badge/Class--IL-blue)
 - HyperPRET: Few-Shot Class Incremental Learning with Precognition and Retrospection for Hyperspectral Imagery \[[PR](https://www.sciencedirect.com/science/article/pii/S003132032600751X)\] ![Few-Shot-CIL](https://img.shields.io/badge/Few--Shot--CIL-orange)
 - Cross-Scene Hyperspectral Image Incremental Classification Based on Textual Knowledge Guidance and Dual Distillation \[[IEEE TGRS](https://ieeexplore.ieee.org/abstract/document/11614865)\] ![Task-IL](https://img.shields.io/badge/Task--IL-yellow)
